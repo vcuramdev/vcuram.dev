@@ -1,0 +1,113 @@
+* {
+  font-family: sans-serif;
+}
+.navbar-nav > li {
+  padding-left: 2rem;
+  padding-right: 2rem;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+}
+.svg-div {
+  background-color: rgb(40, 58, 70);
+}
+.hacky {
+  margin: 3%;
+}
+.hackathon-imgs {
+  border-radius: 7%;
+}
+.nav-item {
+  color: white;
+}
+.nav-item:hover {
+  background-color: white;
+  color: black;
+  border-radius: 1.5rem;
+}
+.navvy {
+  background-color: rgb(53, 70, 81);
+  border-radius: 0rem 0rem 1.5rem 1.5rem;
+  height: 10%;
+  width: 100%;
+}
+.somediv {
+  background-color: rgb(40, 58, 70);
+}
+
+.ma-toggler {
+  border: 1px;
+  border-color: white;
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(0,0,0, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+}
+button a {
+  color: white;
+  height: 20rem;
+  width: 50rem;
+}
+button a:hover {
+  text-decoration: none;
+  height: 20rem;
+  width: 50rem;
+}
+.ma-jumbo {
+  background-color: rgb(40, 58, 70);
+  color: white;
+  margin: 0;
+  padding-top: 10rem;
+  width: 100%;
+}
+.ma-jumbo2 {
+  width: 100%;
+  margin: 0;
+  padding-top: 8%;
+  padding-bottom: 5%;
+}
+.talk-info {
+  background-color: rgb(243, 236, 222);
+}
+.hackathon {
+  background: url("../assets/ramhacks.jpg");
+  background-repeat: no-repeat;
+  background-size: 130rem 190rem;
+
+  position: relative;
+  padding-bottom: 20rem;
+  padding-top: 20rem;
+  opacity: 0.7;
+}
+
+.officers {
+  background-color: rgb(40, 58, 70);
+  padding-bottom: 10%;
+}
+.pics {
+  height: 20rem;
+  width: 20rem;
+  margin-top: 30%;
+  border-radius: 10rem;
+  border: 0.3rem solid #f1f1f1;
+}
+.bg-text {
+  background-color: rgb(0, 0, 0); /* Fallback color */
+  background-color: rgba(0, 0, 0, 0.4); /* Black w/opacity/see-through */
+  color: white;
+  font-weight: bold;
+  border: 0.3rem solid #f1f1f1;
+  width: 97%;
+  padding: 2%;
+  text-align: center;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  font-size: 2vw;
+}
+.figure-caption {
+  font-size: 1rem;
+  font-family: sans-serif;
+  color: white;
+  letter-spacing: 3px;
+}
+.contact-us {
+  background-color: rgb(23, 38, 48);
+  padding-top: 5%;
+  padding-bottom: 5%;
+}
