@@ -21,7 +21,8 @@ import { FontAwesomeModule } from "@fortawesome/angular-fontawesome";
     BrowserModule,
     AppRoutingModule,
     FontAwesomeModule,
-    ScrollToModule.forRoot()
+    ScrollToModule.forRoot(),
+    
   ],
   providers: [],
   bootstrap: [AppComponent]

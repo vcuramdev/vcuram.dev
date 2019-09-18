@@ -26,6 +26,8 @@
     "@nicky-lenaers/ngx-scroll-to": "^3.0.1",
     "angular-cli-ghpages": "^0.6.0",
     "bootstrap": "^4.3.1",
+    "font-awesome": "^4.7.0",
+    "ionicons": "^4.6.3",
     "jquery": "^3.4.1",
     "popper.js": "^1.15.0",
     "rxjs": "~6.4.0",

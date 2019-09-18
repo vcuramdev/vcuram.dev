@@ -39,5 +39,10 @@ export class AppComponent {
       name: "Christopher Estes",
       imgSrc: "assets/marketing.JPG"
     });
+    this.officersList.push({
+      title: "Treasurer",
+      name: "Vinie Patel",
+      imgSrc: "assets/placeholder.JPEG"
+    });
   }
 }

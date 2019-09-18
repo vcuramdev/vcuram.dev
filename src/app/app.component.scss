@@ -82,7 +82,7 @@ button a:hover {
 }
 .pics {
   height: 20rem;
-  width: 20rem;
+  width: 25rem;
   margin-top: 30%;
   border-radius: 10rem;
   border: 0.3rem solid #f1f1f1;
@@ -98,10 +98,11 @@ button a:hover {
   text-align: center;
   text-transform: uppercase;
   letter-spacing: 3px;
-  font-size: 2vw;
+  font-size: 2rem;
 }
 .figure-caption {
   font-size: 1rem;
+  font-weight: bold;
   font-family: sans-serif;
   color: white;
   letter-spacing: 3px;
@@ -110,4 +111,23 @@ button a:hover {
   background-color: rgb(23, 38, 48);
   padding-top: 5%;
   padding-bottom: 5%;
+}
+.contact-points {
+  margin: 3%;
+}
+
+.contact-buttons {
+  width: 70%;
+  height: 4rem;
+
+  font-family: sans-serif;
+  border-radius: 1rem;
+  letter-spacing: 3px;
+  padding: auto;
+}
+.contact-body {
+  margin-top: 10%;
+}
+.contact-title {
+  padding-top: 2%;
 }

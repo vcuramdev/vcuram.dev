@@ -9,6 +9,20 @@ export class TalksComponent implements OnInit {
   constructor() {}
   talks: Talks[] = [
     {
+      body:
+        "Chase will be giving a talk for CoStar about Natural Language Processing using Python and spaCy",
+      speaker: "Chase Greco",
+      date: "11 September 2019",
+      title: "Costar Talk"
+    },
+    {
+      body:
+        "Modeling & Analysis Manager, Megan Joyner, and Mike McGarry, VP Information Technology,  from Genworth will be giving a talk on AI, Machine Learning, and Deep Learning.",
+      speaker: "Megan Joyner",
+      date: "03 September 2019",
+      title: "Genworth Talk"
+    },
+    {
       body: "RamDev members gathered in preparation for HooHacks.",
       speaker: "MLH",
       date: "02 March 2019",
