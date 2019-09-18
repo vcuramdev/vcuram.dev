@@ -42,7 +42,7 @@ export class AppComponent {
     this.officersList.push({
       title: "Treasurer",
       name: "Vinie Patel",
-      imgSrc: "assets/placeholder.JPEG"
+      imgSrc: "assets/placeholder-pic.jpeg"
     });
   }
 }
