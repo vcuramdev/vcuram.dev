@@ -10,7 +10,28 @@ export class TalksComponent implements OnInit {
   talks: Talks[] = [
     {
       body:
-        "Chase will be giving a talk for CoStar about Natural Language Processing using Python and spaCy",
+        "Google (the company that has the one search engine for those who don't know) is coming to RamDev to do a mini hackathon!!!!!. The meeting will be a little different from the normal RamDev meetings as we will be splitting into teams to solves tech related puzzles, some may require coding, some may not. Whatever team solves the most puzzles gets a prize! This event is also special as it is HIGHLY recommended that you RSVP for the event.",
+      speaker: "Allen Calderwood",
+      date: "09 October 2019",
+      title: "Google Talk"
+    },
+    {
+      body:
+        "ICF Next, an international consulting company and marketing agency, is having its User Experience Leader, Terry Peters, at Ramdev to give an interactive opportunity for students to experience ideation within a global consulting company. This session will show how ICF Next works through projects from brainstorming to implementation.",
+      speaker: "Terry Peters",
+      date: "30 September 2019",
+      title: "ICF Next Talk"
+    },
+    {
+      body:
+        "CarMax is coming to #ramdev to talk about what DevOps really is and how DevOps is used inside their company! Come learn about why this is such a popular topic and the tools used in the world of application deployment. Understanding DevOps and how to properly deploy apps can be a huge advantage with RamHacks around the corner btw. (And of course pizza and cookies will be provided).",
+      speaker: "Brian Marshall & Rob Fritzemeier",
+      date: "23 September 2019",
+      title: "Carmax Talk"
+    },
+    {
+      body:
+        "Chase will be giving a talk for CoStar about Natural Language Processing using Python and spaCy.",
       speaker: "Chase Greco",
       date: "11 September 2019",
       title: "Costar Talk"
